@@ -19,7 +19,7 @@ To get acquainted and configure additional features
 8. Go to [http://localhost:3000](http://localhost:3000) in your browser.
  This page will automatically reload after saving changes to the project files.
 
-## Deploy
+## Deployy
 
 The production version of the project will automatically be linted, built, 
 and deployed to GitHub Pages, in the `gh-pages` branch, every time the `main` 
