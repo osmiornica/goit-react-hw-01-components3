@@ -1,7 +1,7 @@
 **Read in other languages: [rosyjski](README.md), [polski](README.pl.md).**
 
 # Wishlist
- - [ ] make gh actions work maybe
+ - [ ] make gh actions work ;-;
 
 
 # React homework template
