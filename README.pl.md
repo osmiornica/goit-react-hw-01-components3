@@ -1,5 +1,9 @@
 **Read in other languages: [rosyjski](README.md), [polski](README.pl.md).**
 
+# Wishlist
+ - [ ] make gh actions work
+
+
 # React homework template
 
 Ten projekt został stworzony przy pomocy
